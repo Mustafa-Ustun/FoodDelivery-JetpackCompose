@@ -23,6 +23,6 @@ data class ProductPreviewState(
         ProductHighlightState(
             text ="BestSeller",
             type = ProductHighlightType.PRIMARY
-        )
+        ),
     )
 )
